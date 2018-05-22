@@ -1,0 +1,2 @@
+# utl_how_to_stream_stacked_multiple_json_files_into_sas_dataset
+How to stream stacked multiple json files into sas dataset.  Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
